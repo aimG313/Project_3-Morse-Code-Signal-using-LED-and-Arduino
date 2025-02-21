@@ -1,6 +1,6 @@
-#Project-3: Morse Code Signal using LED and Arduino
+#Project-2: Morse Code Signal using LED and Arduino
 ---
- _This is my 3rd project using Arduino Uno R3 and LED, which will generate SOS morse code by turning LED light with different time lapse_
+ _This is my 2nd project using Arduino Uno R3 and LED, which will generate SOS morse code by turning LED light with different time lapse_
 
 **Instrument List:**
 | No |  Name | Quantity |
